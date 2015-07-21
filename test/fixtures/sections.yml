@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  sti: MyString
+  rails: MyString
+  g: MyString
+  model: MyString
+  Section: MyString
+  title: MyString
+  content: MyText
+  visible: false
+  position: 1
+  page_id: 1
+
+two:
+  title: MyString
+  sti: MyString
+  rails: MyString
+  g: MyString
+  model: MyString
+  Section: MyString
+  title: MyString
+  content: MyText
+  visible: false
+  position: 1
+  page_id: 1
